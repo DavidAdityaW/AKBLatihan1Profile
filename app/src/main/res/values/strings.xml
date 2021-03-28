@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AKBLatihan1Profile</string>
+
+    <string name="title">Biodata Diri</string>
+    <string name="lblnama">Nama Lengkap :</string>
+    <string name="isinama">David Aditya Winarto</string>
+    <string name="lblnim">NIM :</string>
+    <string name="isinim">10118071</string>
+    <string name="lblkelas">Kelas :</string>
+    <string name="isikelas">IF-2</string>
+    <string name="lbljk">Jenis Kelamin :</string>
+    <string name="isijk">Laki-laki</string>
+    <string name="lblttl">Tempat Tanggal Lahir :</string>
+    <string name="isittl">Subang, 08 Oktober 1999</string>
+    <string name="lblalamat">Alamat Rumah :</string>
+    <string name="isialamat">Jln. Raya Belendung Rt.05/Rw.02 Kec.Cibogo Kab.Subang Jawa Barat</string>
+    <string name="lblgol">Golongan Darah :</string>
+    <string name="isigol">B</string>
+    <string name="lblmakanan">Makanan Kesukaan :</string>
+    <string name="isimakanan">Sate Kuningan</string>
+    <string name="lblminuman">Minuman Kesukaan :</string>
+    <string name="isiminuman">Jus Alpukat</string>
+    <string name="lblhobi">Hobi :</string>
+    <string name="isihobi">Membaca dan Berenang</string>
+    <string name="lbllagu">Lagu Favorit :</string>
+    <string name="isilagu">To The Bone - Pamungkas</string>
+    <string name="lblfilm">Film Favorit :</string>
+    <string name="isifilm">Mission Imposible</string>
+    <string name="lblpekerjaan">Pekerjaan yang diinginkan setelah kuliah :</string>
+    <string name="isipekerjaan">Engineer BUMN</string>
+</resources>
